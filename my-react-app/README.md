@@ -339,3 +339,4 @@ Bootstrap was removed from the project and Tailwind CSS was added.
 
 The project now uses Tailwind utility classes for styling React components. This makes the design more flexible, modern, and easier to customize.
 
+chatgpt links:https://chatgpt.com/g/g-p-69de71bf174c8191a0e528c89af3163c/c/69f1a442-eb50-83eb-8bf3-f6708f9a8212
