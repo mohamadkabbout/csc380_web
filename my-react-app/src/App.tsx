@@ -1,7 +1,7 @@
-import Login from "./features/auth/login/login";
+import MainLayout from "./layouts/mainlayouts";
 
-const App = () =>{
-  return <Login/>;
+const App = () => {
+  return <MainLayout />;
 };
 
 export default App;
