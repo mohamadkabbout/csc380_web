@@ -1,7 +1,12 @@
 import MainLayout from "./layouts/mainlayouts";
-
+import AuthLayout from "./layouts/authlayouts";
 const App = () => {
-  return <MainLayout />;
+  let isloggin : boolean = true;
+if(isloggin){
+    return <MainLayout />
+  }else {
+    return <AuthLayout />
+  }
 };
 
 export default App;
